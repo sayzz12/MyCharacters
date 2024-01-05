@@ -1,0 +1,13 @@
+type hero with name dedspace:
+dedspace.iq = 70
+dedspace.legs = 2
+dedspace.arms = 2
+
+dedspace can:
+move
+say
+play Apex Legengs
+scream
+
+
+lore = "наемный убийца за деньги который враждует с ЛОбой так как он в детстве убил ее родителей"
